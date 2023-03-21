@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![shameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameleon&show_icons=true&theme=radical)](https://github.com/shameleon/github-readme-stats)
 
-[![Shameleon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameleon)](https://github.com/shameleon/github-readme-stats)
+[![shameleon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameleon)](https://github.com/shameleon/github-readme-stats)
