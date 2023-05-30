@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![shameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameleon&count_private=true&show_icons=true&theme=transparent)](https://github.com/shameleon/github-readme-stats)
+[![shameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameleon&show_icons=true&theme=transparent)](https://github.com/shameleon/github-readme-stats)
 
 [![shameleon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameleon)](https://github.com/shameleon/github-readme-stats)
