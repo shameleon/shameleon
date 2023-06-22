@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![codingame](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+
 <!--
 **shameleon/shameleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
