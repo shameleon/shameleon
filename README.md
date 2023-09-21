@@ -29,12 +29,13 @@ My work led to 16 projects being peer-reviewed and validated,
 Only one C-language exam, specific to my curriculum, was validated in one-shot.
 
 ***
-| language     | validated project | presently working on |
+| language     | validated project | currently working on |
 | ------ |-------------------------------------------|----|
 |C| Piscine   Libft   ft_get_next_line   Exam42-zip   [so-long](./so_long_project)||
-|C++| cpp_module_00 through cpp_module 09||
-|sysadmin| Born2beroot   Netpratice | Inception |
-|Python | ft_linear_regression | dslr |
+|C++| cpp_00 cpp_01 cpp_02 cpp_03 [cpp_04](./cpp_module_04)||
+|C++| cpp_05 cpp_06 cpp_07 cpp_08 [cpp_09](./cpp_module_09)||
+|sysadmin| Born2beroot   Netpratice | [Inception](./inception) |
+|Python | [ft_linear_regression](./ft_linear_regression) | [dslr](./dslr-42) |
 
 * many of my school related repos are kept private.
 ***
@@ -42,9 +43,12 @@ Only one C-language exam, specific to my curriculum, was validated in one-shot.
 ## Codingame
 [my CodinGame profile](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
-<!--
-[README stats](https://gh-stats-gen.vercel.app/)
--->
+[coding game repo](./codingame)
+
+***
+
+## Stat cards
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shameleon" />
 </a>
@@ -52,5 +56,8 @@ Only one C-language exam, specific to my curriculum, was validated in one-shot.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shameleon&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<!--
+[README stats](https://gh-stats-gen.vercel.app/)
+-->
 
 
