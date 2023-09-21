@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[my CodinGame profile](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
-
 <!--
 **shameleon/shameleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+In sept-2022, I have spent a month swimming in 42-Paris hectic ```piscine```. 
+
+Subsequently, I have been enrolled there for a 12-month curriculum ```42-zip```, 
+
+where I actively participated to ```42-Paris``` campus life.
+
+## My projects at 42-Paris school
+
+My work led to 16 projects being peer-reviewed and validated,
+
+39 evaluations with a grade of ```100``` and over, among which 12 were rated as ```outstanding```.
+
+Only one C-language exam, specific to my curriculum, was validated in one-shot.
+
+***
+| language     | validated project | presently working on |
+| ------ |-------------------------------------------|----|
+|C| Piscine   Libft   ft_get_next_line   Exam42-zip   [so-long](./so_long_project)||
+|C++| cpp_module_00 through cpp_module 09||
+|sysadmin| Born2beroot   Netpratice | Inception |
+|Python | ft_linear_regression | dslr |
+
+* many of my school related repos are kept private.
+***
+
+## Codingame
+[my CodinGame profile](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+
 
 [![shameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameleon&show_icons=true&theme=transparent)](https://github.com/shameleon/github-readme-stats)
 
