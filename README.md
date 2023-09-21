@@ -42,7 +42,15 @@ Only one C-language exam, specific to my curriculum, was validated in one-shot.
 ## Codingame
 [my CodinGame profile](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
+<!--
+[README stats](https://gh-stats-gen.vercel.app/)
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shameleon" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shameleon&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-[![shameleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameleon&show_icons=true&theme=transparent)](https://github.com/shameleon/github-readme-stats)
 
-[![shameleon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameleon)](https://github.com/shameleon/github-readme-stats)
+
