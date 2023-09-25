@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-In sept-2022, I have spent a month swimming in 42-Paris hectic ```piscine```. 
+In sept-2022, I have spent a month swimming in 42-Paris ```piscine```. 
 
 Subsequently, I have been enrolled there for a 12-month curriculum ```42-zip```, 
 
@@ -22,28 +22,27 @@ where I actively participated to ```42-Paris``` campus life.
 
 ## My projects at 42-Paris school
 
-My work led to 16 projects being peer-reviewed and validated,
-
-39 evaluations with a grade of ```100``` and over, among which 12 were rated as ```outstanding```.
-
-Only one C-language exam, specific to my curriculum, was validated in one-shot.
+My work led to
+* 16 projects being **peer-reviewed** and validated,
+* 39 favorable peer-evaluations with a grade of ```100``` and over, among which 12 were rated as ```outstanding```.
+* A C-language exam, specific to my curriculum, was validated in one-shot.
 
 ***
 | language     | validated project | currently working on |
 | ------ |-------------------------------------------|----|
-|C| Piscine   Libft   ft_get_next_line   Exam42-zip   [so-long](./so_long_project)||
-|C++| cpp_00 cpp_01 cpp_02 cpp_03 [cpp_04](./cpp_module_04)||
-|C++| cpp_05 cpp_06 cpp_07 cpp_08 [cpp_09](./cpp_module_09)||
-|sysadmin| Born2beroot   Netpratice | [Inception](./inception) |
-|Python | [ft_linear_regression](./ft_linear_regression) | [dslr](./dslr-42) |
+|C| Piscine ◦ Libft ◦ Get_next_line ◦ Exam42-zip ◦ [so-long](https://github.com/shameleon/so_long_project)||
+|C++| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
+|C++| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
+|sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
+|Python| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
 
-* many of my school related repos are kept private.
+* many of my school-related repos are kept private.
 ***
 
 ## Codingame
-[my CodinGame profile](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+* [my CodinGame profile - level 13](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
-[coding game repo](./codingame)
+* [coding game repo](./codingame)
 
 ***
 
