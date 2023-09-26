@@ -30,7 +30,7 @@ My work led to
 ***
 | language     | validated project | currently working on |
 | ------ |-------------------------------------------|----|
-|C| Piscine ◦ Libft ◦ Get_next_line ◦ Exam42-zip ◦ [so-long](https://github.com/shameleon/so_long_project)||
+|C| Piscine ◦ Libft ◦ Get_next_line ◦ [exam-42-zip](https://github.com/shameleon/exam-42-zip) ◦ [so-long](https://github.com/shameleon/so_long_project)||
 |C++| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
 |C++| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
 |sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
