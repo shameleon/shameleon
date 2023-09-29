@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently student at 42 school in Paris, 
+I am currently student at 42 school in Paris,
 for a 12-month curriculum that is called ```42-zip```.
 After a month swimming in 42 ```piscine``` (sept-2022, Paris), 
 I am actively participated and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-I also have a Ph.D. in molecular and cellular biology and many skills that I have developped
-during my previous career as biomedical research scientist for research organization such as
-Howard Hughes Medical Institute, University of Pennsylvania, french CNRS and Pasteur Institute.
+I also have a Ph.D. in molecular and cellular biology and had a extensive career as biomedical
+research scientist for research organization such as Howard Hughes Medical Institute, University
+of Pennsylvania, french CNRS and Pasteur Institute.
 
-I am interested to everything related to science, life science, computer science
+<!--
+I am interested in
+-->
 
 ## My work at 42-Paris school
 
@@ -44,7 +46,13 @@ My work led to
 
 _* most of my school-related repos are kept private, complying with school policy about 42-related projects _
 
-## Codingame
+## find me
+
+### on 42 intra
+
+[jmouaike profile 42.intra](https://profile.intra.42.fr/users/jmouaike)
+
+### on the codingame.com
 * [my CodinGame profile - level 13](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 * 
 * [coding game repo](./codingame)
