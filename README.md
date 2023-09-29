@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **shameleon/shameleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-In sept-2022, I have spent a month swimming in 42-Paris ```piscine```. 
 
-Subsequently, I have been enrolled there for a 12-month curriculum ```42-zip```, 
+I am currently student at 42 school in Paris, 
+for a 12-month curriculum that is called ```42-zip```.
+After a month swimming in 42 ```piscine``` (sept-2022, Paris), 
+I am actively participated and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-where I actively participated to ```42-Paris``` campus life.
+I also have a Ph.D. in molecular and cellular biology and many skills that I have developped
+during my previous career as biomedical research scientist for research organization such as
+Howard Hughes Medical Institute, University of Pennsylvania, french CNRS and Pasteur Institute.
 
-## My projects at 42-Paris school
+I am interested to everything related to science, life science, computer science
+
+## My work at 42-Paris school
 
 My work led to
-* 16 projects being **peer-reviewed** and validated,
+* 16 projects being **peer-reviewed** and validated, all with at least 100% grade.
 * 39 favorable peer-evaluations with a grade of ```100``` and over, among which 12 were rated as ```outstanding```.
-* A C-language exam, specific to my curriculum, was validated in one-shot.
+* A C-language exam, specific to my curriculum, that I validated in one-shot.
 
 ***
 | language     | validated project | currently working on |
@@ -36,12 +42,11 @@ My work led to
 |sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
 |Python| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
 
-* many of my school-related repos are kept private.
-***
+_* most of my school-related repos are kept private, complying with school policy about 42-related projects _
 
 ## Codingame
 * [my CodinGame profile - level 13](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
-
+* 
 * [coding game repo](./codingame)
 
 ***
