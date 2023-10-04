@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 -->
 
 I am currently student at 42 school in Paris,
@@ -48,9 +50,9 @@ _* most of my school-related repos are kept private, complying with school polic
 
 ## find me
 
-### on 42 intra
+### 42 intranet
 
-[jmouaike profile 42.intra](https://profile.intra.42.fr/users/jmouaike)
+* [jmouaike profile 42.intra](https://profile.intra.42.fr/users/jmouaike)
 
 ### The codingame.com
 
@@ -58,11 +60,11 @@ _* most of my school-related repos are kept private, complying with school polic
 
 #### Code
 
-[My codingame repo](./codingame) wheremy solutions to codingame.com puzzles
+* [My codingame repo](./codingame) : my solutions to codingame.com puzzles
 
 #### Certifications
 
-[**Algorithms, silver**. Certification No 10119764 oct.04 2023](https://www.codingame.com/certification/PYzoUvkanjpLz5jOsH85UA)
+*  [**Algorithms, silver**. Certification No 10119764 oct.04 2023](https://www.codingame.com/certification/PYzoUvkanjpLz5jOsH85UA)
 
 ***
 
