@@ -35,12 +35,12 @@ I am interested in
 My work led to
 * 16 projects being **peer-reviewed** and validated, all with at least `100%` grade.
 * 39 favorable peer-evaluations with a grade of `100` and over, among which 12 were rated as `outstanding work` ⭐.
-* A C-language exam, specific to my curriculum, that I have validated on first attempt.
+* A C-language exam, ◦ [exam-42-zip](https://github.com/shameleon/exam-42-zip) ◦ specific to my curriculum, that I have validated on first attempt.
 
 ***
 | Language     | Validated projects, grade >= `100%` | Currently working on |
 | ------ |-------------------------------------------|----|
-|C| Piscine ◦ Libft ◦ Get_next_line ◦ [exam-42-zip](https://github.com/shameleon/exam-42-zip) ◦ [so-long](https://github.com/shameleon/so_long_project)||
+|C| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
 |C++| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
 |C++| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
 |Sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
