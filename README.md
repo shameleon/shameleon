@@ -51,6 +51,7 @@ _* most of my school-related repos are kept private, complying with school polic
 ## find me
 
 ### 42 intranet
+[![42](https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg)](https://42.fr)
 
 * [jmouaike profile 42.intra](https://profile.intra.42.fr/users/jmouaike)
 
