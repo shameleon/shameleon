@@ -22,8 +22,8 @@ for a 12-month curriculum that is called ```42-zip```.
 After a month swimming in 42 ```piscine``` (sept-2022, Paris), 
 I am actively participated and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-I also have a Ph.D. in molecular and cellular biology and had a extensive career as biomedical
-research scientist for many research organization (Howard Hughes Medical Institute, University
+I also have a Ph.D. in molecular and cellular biology and a career as biomedical
+research scientist for academic organizations (Howard Hughes Medical Institute, University
 of Pennsylvania, french CNRS and Pasteur Institute).
 
 <!--
