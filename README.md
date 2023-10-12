@@ -46,7 +46,7 @@ My work led to
 |Sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
 |Python| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
 
-_* most of my school-related repos are kept private, complying with school policy about 42-related projects _
+_* most of my school-related repos are kept private, complying with 42 school policy about proprietary projects.
 
 ## find me
 
@@ -57,7 +57,7 @@ _* most of my school-related repos are kept private, complying with school polic
 
 ### The codingame.com
 
-* [my CodinGame profile - level 15](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+* [my CodinGame profile - level 16](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
 #### Code
 
