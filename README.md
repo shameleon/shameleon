@@ -30,7 +30,7 @@ of Pennsylvania, french CNRS and Pasteur Institute).
 I am interested in
 -->
 
-## My work at 42-Paris school
+## 42-Paris school
 
 My work led to
 * 16 projects being **peer-reviewed** and validated, all with at least `100%` grade.
@@ -57,7 +57,7 @@ _* most of my school-related repos are kept private, complying with 42 school po
 
 ### The codingame.com
 
-* [my CodinGame profile - level 16](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+* [my CodinGame profile - level 17](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
 #### Code
 
