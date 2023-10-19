@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 -->
 
-I am currently student at 42 school in Paris,
-for a 12-month curriculum that is called ```42-zip```.
-After a month swimming in 42 ```piscine``` (sept-2022, Paris), 
-I am actively participated and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
+I am currently a student at [42](https://www.42network.org/) school in Paris, for a 12-month curriculum, that is called ```42-zip```.
+After swimming in 42's ```piscine``` for a month (sept-2022, Paris),
+I am actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-I also have a Ph.D. in molecular and cellular biology and a career as biomedical
-research scientist for academic organizations (Howard Hughes Medical Institute, University
-of Pennsylvania, french CNRS and Pasteur Institute).
+I am interested in anything related to science, technologies and experimentation.
+As I have a background in biotechnologies more specifically in [transcriptomics technologies](https://en.wikipedia.org/wiki/Transcriptomics_technologies).
+I also hold a Ph.D. in molecular and cellular biology and pursed a career as biomedical
+research scientist for many prestigious academic organizations (Howard Hughes Medical 
+Institute, University of Pennsylvania, french CNRS and Pasteur Institute).
 
 <!--
-I am interested in
+
 -->
 
 ## 42-Paris school
