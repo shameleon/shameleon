@@ -21,11 +21,8 @@ I am currently a student at [42](https://www.42network.org/) school in Paris, fo
 After swimming in 42's ```piscine``` for a month (sept-2022, Paris),
 I am actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-I am interested in anything related to science, technologies and experimentation.
-As I have a background in biotechnologies more specifically in [transcriptomics technologies](https://en.wikipedia.org/wiki/Transcriptomics_technologies).
-I also hold a Ph.D. in molecular and cellular biology and pursed a career as biomedical
-research scientist for many prestigious academic organizations (Howard Hughes Medical 
-Institute, University of Pennsylvania, french CNRS and Pasteur Institute).
+I am interested in anything related to science and technologies.
+I have a background in biotechnologies, and hold a Ph.D. in molecular and cellular biology.
 
 <!--
 
