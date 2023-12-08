@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 -->
 
-I am currently a student at [42](https://www.42network.org/) school in Paris, for a 12-month curriculum, that is called ```42-zip```.
+I am currently a student at [42](https://www.42network.org/) school in Paris, for a 16-month curriculum, that is called ```42-zip```.
 After swimming in 42's ```piscine``` for a month (sept-2022, Paris),
 I am actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
@@ -31,18 +31,18 @@ I have a background in biotechnologies, and hold a Ph.D. in molecular and cellul
 ## 42-Paris school
 
 My work led to
-* 16 projects being **peer-reviewed** and validated, all with at least `100%` grade.
-* 39 favorable peer-evaluations with a grade of `100` and over, among which 12 were rated as `outstanding work` ⭐.
+* `16` projects being **peer-reviewed** and validated, all with at least ${\color{lightgreen}100}$ grade.
+* `39` favorable peer-evaluations with a grade of ${\color{lightgreen}100}$ and over, among which `12` were rated as ⭐ `outstanding work` ⭐.
 * A C-language exam, ◦ [exam-42-zip](https://github.com/shameleon/exam-42-zip) ◦ specific to my curriculum, that I have validated on first attempt.
 
 ***
 | Language     | Validated projects, grade >= `100%` | Currently working on |
 | ------ |-------------------------------------------|----|
-|C| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
-|C++| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
-|C++| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
-|Sysadmin| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
-|Python| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
+|$${\color{lightblue}C}$$| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
+|$${\color{lightgreen}C++}$$| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
+|$${\color{lightgreen}C++}$$| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
+|$${\color{orange}Sysadmin}$$| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
+|$${\color{blue}Python}$$| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
 
 _* most of my school-related repos are kept private, complying with 42 school policy about proprietary projects.
 
