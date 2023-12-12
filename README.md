@@ -36,15 +36,23 @@ My work led to
 * A C-language exam, ◦ [exam-42-zip](https://github.com/shameleon/exam-42-zip) ◦ specific to my curriculum, that I have validated on first attempt.
 
 ***
-| Language     | Validated projects, grade >= `100%` | Currently working on |
-| ------ |-------------------------------------------|----|
-|$${\color{lightblue}C}$$| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
-|$${\color{lightgreen}C++}$$| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
-|$${\color{lightgreen}C++}$$| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
-|$${\color{orange}Sysadmin}$$| Born2beroot ◦ Netpratice | [Inception](https://github.com/shameleon//inception) |
-|$${\color{blue}Python}$$| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [dslr](https://github.com/shameleon//dslr-42) |
+| Language     | Validated projects, grade >=  ${\color{lightgreen}100}$  | Currently working on |
+| ------ |-------------------------------------------|-----|
+|$${\color{blue}C}$$| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
+|$${\color{lightblue}C++}$$| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
+|$${\color{lightblue}C++}$$| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
+|$${\color{orange}Sysadmin}$$| Born2beroot ◦ Netpratice | [Inception : Docker compose, LEMP stack](https://github.com/shameleon//inception)|
+|$${\color{yellow}Python}$$| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [Data-Science-X-Logistic-Regression: dslr](https://github.com/shameleon//dslr-42) |
+||<img src="https://github.com/shameleon/ft_linear_regression/blob/main/screenshots/bing-ft_linear_regression.jpg?raw=true" alt="ML sorting hat"  width=200px height=200px> <img src="https://github.com/shameleon/dslr-42/blob/main/screenshots/bing-dslr-electroning-hat.jpg??raw=true" alt="ML sorting hat" width=200px height=200px>||
 
-_* most of my school-related repos are kept private, complying with 42 school policy about proprietary projects.
+_{* most of my school-related repos are kept private, complying with 42 school policy about proprietary projects.}_
+
+<!---
+|Project | | stack |
+| ------ |:-----:|-----|
+|[dslr](https://github.com/shameleon//dslr-42) |<img src="https://github.com/shameleon/dslr-42/blob/main/screenshots/bing-dslr-electroning-hat.jpg??raw=true" alt="ML sorting hat" width=25% height=25%>|Python, data|
+ <img src="https://github.com/shameleon/shameleon/assets/112470438/d90d983c-f60d-4171-87bf-303b3bbf3929" alt="so-long-screen-detail"  width=200px height=200px> 
+-->
 
 ## find me
 
