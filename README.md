@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 -->
 
-I am currently a student at [42](https://www.42network.org/) school in Paris, for a 16-month curriculum, that is called ```42-zip```.
+I am currently a student at [42](https://www.42network.org/) school in Paris, for a 14-month curriculum, that is called ```42.zip```.
 After swimming in 42's ```piscine``` for a month (sept-2022, Paris),
 I am actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
