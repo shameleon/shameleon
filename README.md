@@ -41,7 +41,7 @@ My work led to
 |$${\color{blue}C}$$| Piscine ◦ Libft ◦ Get_next_line ◦ [so-long](https://github.com/shameleon/so_long_project)||
 |$${\color{lightblue}C++}$$| cpp_00 ◦ cpp_01 ◦ cpp_02 ◦ cpp_03 ◦ [cpp_04](https://github.com/shameleon//cpp_module_04)||
 |$${\color{lightblue}C++}$$| cpp_05 ◦ cpp_06 ◦ cpp_07 ◦ cpp_08 ◦ [cpp_09](https://github.com/shameleon//cpp_module_09)||
-|$${\color{orange}Sysadmin}$$| Born2beroot ◦ Netpratice | [Inception : Docker compose, LEMP stack](https://github.com/shameleon//inception)|
+|$${\color{orange}Sysadmin}$$| Born2beroot ◦ Netpratice | [Inception : Docker compose, LEMP stack](https://github.com/shameleon//inception-42)|
 |$${\color{yellow}Python}$$| [ft_linear_regression](https://github.com/shameleon//ft_linear_regression) | [Data-Science-X-Logistic-Regression: dslr](https://github.com/shameleon//dslr-42) |
 ||<img src="https://github.com/shameleon/ft_linear_regression/blob/main/screenshots/bing-ft_linear_regression.jpg?raw=true" alt="ML sorting hat"  width=200px height=200px> <img src="https://github.com/shameleon/dslr-42/blob/main/screenshots/bing-dslr-electroning-hat.jpg??raw=true" alt="ML sorting hat" width=200px height=200px>||
 
