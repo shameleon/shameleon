@@ -63,11 +63,11 @@ _{* most of my school-related repos are kept private, complying with 42 school p
 
 ### The codingame.com
 
-* [my CodinGame profile - level 19](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
+* [my CodinGame profile - level 20](https://www.codingame.com/profile/eecc172724a1795985fdd230c13ec0e32605155)
 
 #### Code
 
-* [My codingame repo](./codingame) : my solutions to codingame.com puzzles
+* [My codingame repo](https://github.com/shameleon/codingame) : my solutions to codingame.com puzzles
 
 #### Certifications
 
