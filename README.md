@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 -->
 
-I am currently a student at [42](https://www.42network.org/) school in Paris, for a 14-month curriculum, that is called ```42.zip```.
-After swimming in 42's ```piscine``` for a month (sept-2022, Paris),
-I am actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
+I went to [42](https://www.42network.org/) school in Paris, for a 14-month curriculum, that is called ```42.zip```.
+Swimming in 42's ```piscine``` for a month (sept-2022, Paris), then actively participating and enjoying ```42-Paris``` life and ```peer-to-peer``` experience.
 
-I am interested in anything related to science and technologies.
 I have a background in biotechnologies, and hold a Ph.D. in molecular and cellular biology.
+I am interested in anything related to science and technologies.
+Trying to stick to the entrepreneur's mindset, coping with my gifted ADHD, maybe AuDHD, and family life.
+More recently, I have moved to SW part of France where I am running a 9-employee small company, and splitting myself into CEO, CFO, CTO, CDO roles.
 
 <!--
 
