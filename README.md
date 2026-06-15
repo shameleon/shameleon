@@ -28,7 +28,7 @@ More recently, I have moved to SW part of France where I am running a 9-employee
 
 -->
 
-## 42-Paris school
+## Public projects : 42-Paris school (sept2022-jan2024)
 
 My work led to
 * `16` projects being **peer-reviewed** and validated, all with at least ${\color{lightgreen}100}$ grade.
