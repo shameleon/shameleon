@@ -22,7 +22,6 @@ Swimming in 42's ```piscine``` for a month (sept-2022, Paris), then actively par
 
 I have a background in biotechnologies, and hold a Ph.D. in molecular and cellular biology.
 I am interested in anything related to science and technologies.
-Trying to stick to the entrepreneur's mindset, coping with my gifted ADHD, maybe AuDHD, and family life.
 More recently, I have moved to SW part of France where I am running a 9-employee small company, and splitting myself into CEO, CFO, CTO, CDO roles.
 
 <!--
